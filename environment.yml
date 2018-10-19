@@ -1,5 +1,5 @@
-name: data-work
+name: data-env
 channels:
   - defaults
-prefix: C:\Users\aarora\AppData\Local\Continuum\miniconda3\envs\data-work\envs\data-work
+prefix: C:\Users\aarora\AppData\Local\Continuum\miniconda3\envs\data-env\envs\data-env
 
